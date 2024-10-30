@@ -16,34 +16,38 @@ $$  \color{#99b46d}{•┈୨♡୧┈• Software\ Engineer.\ Machine\ Learning
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/python.svg" width="48" height="48" alt="Python" />
-      </a>
       <br><b>Python</b>
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/cpp.png" width="43" height="48" alt="Golang" />
-      </a>
       <br><b>C++</b>
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/pytorch.png" width="48" height="48" alt="Jsonnet" />
-      </a>
       <br><b>PyTorch</b>
     </td>
       <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/mongodb.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
       <br><b>MongoDB</b>
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/typescript.png" width="43" height="43" alt="Jsonnet" />
-      </a>
       <br><b>TypeScript</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="./img/pytorch.png" width="48" height="48" alt="Jsonnet" />
+      <br><b>TensorFlow</b>
+    </td>
+    <td align="center" width="96">
+        <img src="./img/pytorch.png" width="48" height="48" alt="Jsonnet" />
+      <br><b>Jupyter Notebook</b>
+    </td>
+    <td align="center" width="96">
+        <img src="./img/pytorch.png" width="48" height="48" alt="Jsonnet" />
+      <br><b>Notion</b>
     </td>
   </tr>
 </table>
