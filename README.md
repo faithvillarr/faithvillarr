@@ -1,4 +1,4 @@
-<img align='right' src='https://i.pinimg.com/originals/fd/29/17/fd2917011ee86ab92408f9eb6fd3c6f8.png' width='300"'>
+<img align='right' src='https://i.pinimg.com/originals/fd/29/17/fd2917011ee86ab92408f9eb6fd3c6f8.png' width='225"'>
 
 
 **Hi there! I'm Faith Villarreal.** <br>
