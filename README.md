@@ -50,10 +50,14 @@
 </table>
 
 
-### 🍓This Semester's Courses:
-- 🍊Natural Language Processing
-- 🫐Philosophy of the Mind (with THE Ned Block)
-- 🍎 Independent Studies: Advanced Machine Learning. Emphasis on mathemtics and generative models.
+### 🍓Current Coursework
+
+
+| Subject                                | Description                                                             |
+|----------------------------------------|-------------------------------------------------------------------------|
+| Natural Language Processing            | Using linguistics to make conclusions about textual data.               |
+| Philosophy of the Mind                 | Determining intelligence in digital computers.                          |
+| Independent Study: Generative ML Models| Understanding the mathematics and mechanics behind modern models.    |
 
 ### 🍄Recent Projects:
 - 🌺 **Fashion Faerie**
