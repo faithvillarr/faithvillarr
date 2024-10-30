@@ -38,15 +38,15 @@ $$  \color{#99b46d}{•┈୨♡୧┈• Software\ Engineer.\ Machine\ Learning
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="./img/pytorch.png" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/tensorflow.webp" width="48" height="48" alt="Jsonnet" />
       <br><b>TensorFlow</b>
     </td>
     <td align="center" width="96">
-        <img src="./img/pytorch.png" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/jupyter.png" width="37 height="40" alt="Jsonnet" />
       <br><b>Jupyter Notebook</b>
     </td>
     <td align="center" width="96">
-        <img src="./img/pytorch.png" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/notion.png" width="48" height="48" alt="Jsonnet" />
       <br><b>Notion</b>
     </td>
   </tr>
