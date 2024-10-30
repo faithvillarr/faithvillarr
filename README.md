@@ -52,9 +52,6 @@ $$  \color{#99b46d}{•┈୨♡୧┈• Software\ Engineer.\ Machine\ Learning
   </tr>
 </table>
  
-<br><br>
-$$ \color{#99b46d}{｡ﾟ•┈┈┈꒰ა ♡ ໒꒱┈┈┈•  ｡ﾟ}$$
-<br><br>
 
 ### 🍓Current Coursework
 
