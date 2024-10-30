@@ -1,7 +1,8 @@
+
+
+# Hi there! I'm Faith Villarreal.
 <img align='right' src='https://i.pinimg.com/originals/fd/29/17/fd2917011ee86ab92408f9eb6fd3c6f8.png' width='225"'>
 
-
-**Hi there! I'm Faith Villarreal.** <br>
 *Software Engineer. Machine Learning Scientist.*
 
 I am pursuing a B.S. in Computer Science with a minor in Philsophy. <br>
