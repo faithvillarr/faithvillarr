@@ -3,7 +3,7 @@
 # Hi there! 🤗 I'm Faith Villarreal.
 <img align='right' src='https://i.pinimg.com/originals/fd/29/17/fd2917011ee86ab92408f9eb6fd3c6f8.png' width='225"'>
 
-$$  \color{#98b36c}{୨♡୧ Software\ Engineer.\ Machine\ Learning\ Scientist. •┈୨♡୧┈•} $$
+$$  \color{#98b36c}{•┈୨♡୧┈• Software\ Engineer.\ Machine\ Learning\ Scientist. •┈୨♡୧┈•} $$
 
 ### About Me 🤓👈🏽
 - B.S. **Computer Science** @ **New York Univeristy**
