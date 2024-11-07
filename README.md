@@ -8,8 +8,8 @@ $$  \color{#99b46d}{•┈୨♡୧┈• Software\ Engineer.\ Machine\ Learning
 ### About Me 🤓👈🏽
 - B.S. **Computer Science** @ **New York Univeristy**
 - Minoring in **🏺Philosophy**
-- Obsessed with **fashion** and **mathematics**
-- Interested in a career in **machine learning**, **software development**, and **quantitative development**. 
+- Obsessed with **fashion** and **mathematics** (especially when it comes to ML)
+- Interested in a career in **machine learning**, **software development**, and **quantitative development** 
 
 ### 💌 My Favorite Technologies
 
